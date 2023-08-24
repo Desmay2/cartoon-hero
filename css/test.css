@@ -1,0 +1,26 @@
+/* CSS Comments are different to HTML comments */
+h1{
+    font-size: 30px;
+    color: lightseagreen;
+}
+
+h2{
+    font-size: 20px;
+    color: mediumaquamarine;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: navy;
+}
+
+h1 span{
+    color: blue;
+}
