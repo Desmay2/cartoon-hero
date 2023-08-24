@@ -2,4 +2,8 @@
 h1{
     font-size: 30px;
     color: rgb(82, 0, 235);
+    text-align: center;
+}
+p{
+    text-align: center;
 }
